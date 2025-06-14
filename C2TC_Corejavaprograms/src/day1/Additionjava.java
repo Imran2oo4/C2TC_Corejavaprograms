@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class Additionjava {
 	public static void main(String [] args) {
 		int a,b,c;
-		Scannner sc;
-		sc = new Scanner(System.in);		
+		Scanner sc;
+		sc = new Scanner(System.in);
 		System.out.println("Enter a:");
 		a=sc.nextInt();
 		System.out.println("Enter b:");
