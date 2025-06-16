@@ -3,7 +3,8 @@ package Demo;
 public class StudentDemo {
 
 	public static void main(String[] args) {
-		Student st = new Student();
+		Student st;
+		st = new Student();
 		st.setId(101);
 		st.setName("Imran");
 		st.setAge(20);	
