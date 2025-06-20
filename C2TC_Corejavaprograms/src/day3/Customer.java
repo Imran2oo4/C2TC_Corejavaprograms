@@ -1,9 +1,9 @@
 package day3;
 
-public class EntityDemo {
+public class Customer {
 	public static void main(String[] args) {
-	    EntityclassDemo ct;
-	    ct= new  EntityclassDemo();
+	    CustomerDemo ct;
+	    ct= new  CustomerDemo();
         ct.setId(101);
 		ct.setName("Imran");
 		ct.setCity("Chennai");

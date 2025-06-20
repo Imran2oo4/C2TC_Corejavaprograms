@@ -1,6 +1,6 @@
 package day3;
 
-public class EntityclassDemo {
+public class CustomerDemo {
 	
 			 public int id;
 			 public String name;
